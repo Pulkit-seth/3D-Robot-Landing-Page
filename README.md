@@ -18,7 +18,7 @@ This project features a **3D robot model from Spline** that moves with the userâ
 ## ðŸ“‚ Getting Started
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pulkit-seth/<3D robot Landing page>.git
+   git clone https://github.com/Pulkit-seth/3D-Robot-Landing-Page.git
 2. Open the project
 
 Simply open index.html in your browser
