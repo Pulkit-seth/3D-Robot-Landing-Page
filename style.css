@@ -1,7 +1,9 @@
 *{
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
     
 }
 
@@ -310,4 +312,5 @@ main{
             font-size: 0.8rem;
             padding: 0.8rem 2rem;
         }
+
     }
